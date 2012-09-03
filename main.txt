@@ -2,6 +2,6 @@ Hi, this is your Git file.  Answer the following:
 
 1. My name is : Beau
 2. My teammates names are: Ryan, Thayne, Randy
-3. My favorite programming language is :
+3. My favorite programming language is : C++
 4. The name of my semester long mobile application is :
 
