@@ -1,7 +1,21 @@
 Hi, this is your Git file.  Answer the following:
 
+1. My name is : Beau
+2. My teammates names are: Ryan, Thayne, Randy
+3. My favorite programming language is : C++
+4. The name of my semester long mobile application is : Flashers (for now)
+
+1. My name is : Randy Mangel
+2. My teammates names are: Ryan, Thayne, Beau
+3. My favorite programming language is : python
+4. The name of my semester long mobile application is :
+
+1. My name is : Ryan
+2. My teammates names are: Bau, Randy, Thane
+3. My favorite programming language is :
+4. The name of my semester long mobile application is :
+
 1. My name is : Thayne
 2. My teammates names are: Beau,Ryan,Randy
 3. My favorite programming language is : Python
 4. The name of my semester long mobile application is :
-
