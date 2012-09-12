@@ -22,3 +22,9 @@ Hi, this is your Git file.  Answer the following:
 
 Ryan: Kerberos.gif
 Randy: Arrivallogo.png
+
+ it requires alot of comunication between teammates
+especially starting off.
+thats tho most important part right there
+git encourages (forces) good communication between development team members
+and saves you from yourself as far as breaking important things
